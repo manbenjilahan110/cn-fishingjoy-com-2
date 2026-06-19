@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manbenjilahan110.github.io/cn-fishingjoy-com-2/sitemap.xml
